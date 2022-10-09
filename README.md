@@ -6,4 +6,4 @@ To get a better insight on the model and its conclusions, we propose some questi
 In conclusion, we also discuss some opportunities to make the model better, some being : to use indicator variable for regions in the model, or get some more related information about diseases/mal-practices by insuree to less sharpen the coefficient for the indicator for smoking.
 
 Concepts needed to follow through the projcts are : Multiple Linear Regression, p-values, different types of correlations etc.
-Necessary calculations are done in R.
+- Necessary calculations are done in R.
